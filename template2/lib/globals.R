@@ -1,6 +1,6 @@
 # Add any project specific configuration here.
 
 add.config(
-        template = 2,
+        template = 21,
         github="github"
 )
